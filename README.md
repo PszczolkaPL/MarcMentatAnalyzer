@@ -4,7 +4,7 @@ An automated Python tool designed to parse, extract, and analyze structural FEA 
 
 ---
 
-## 🚀 Features
+## 👷 Features
 
 - **Automated Results Extraction:** Parses member stresses, forces, connectivity, and lengths straight from `.out` files.
 - **Buckling & Yield Analysis:** Evaluates governing failure mechanisms (Euler Buckling vs. Tensile/Compressive Yielding) for every individual member.
